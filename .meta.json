@@ -1,4 +1,14 @@
 {
-  "Plain_Craft_Launcher_2.exe": { "cat": "启动器", "desc": "pcl2", "time": 1698700000000, "split": 0 },
-  "_______1.zip":                { "cat": "整合包", "desc": "我的整合包", "time": 1698700000000, "split": 0 }
+  "Plain_Craft_Launcher_2.exe": {
+    "cat": "启动器",
+    "desc": "pcl2",
+    "time": 1698700000000,
+    "split": 0
+  },
+  "_______1.zip": {
+    "cat": "其他",
+    "desc": "",
+    "time": 1793450930512,
+    "split": 0
+  }
 }
